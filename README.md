@@ -1,10 +1,13 @@
-# Data Structures Project – Using Arrays to Store Data in Java
+## Getting Started
+To run the project locally, follow these steps:
+ 
 
-## Description
-As part of my CS341 course, I developed a Java program that implemented arrays. The project aimed to manipulate arrays and sort them while providing a menu to adhere to the user's desires.
+1. Clone the Repository:
+   
+git clone https://github.com/amiiinoooo/project-java.git
+cd project-java
 
-## Role
-I was responsible for the full development process, from writing algorithms to testing the program for edge cases.
-
-## Outcome
-The project was successful, and I gained a deeper understanding of Java's array handling capabilities.
+2. Compile the java class:
+javac StudentGrades.java```
+3 * Execute * :
+``` java StudentGrades <number_of_students>```
