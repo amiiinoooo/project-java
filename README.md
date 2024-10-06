@@ -6,8 +6,5 @@ As part of my CS341 course, I developed a Java program that implemented arrays. 
 ## Role
 I was responsible for the full development process, from writing algorithms to testing the program for edge cases.
 
-## Technologies Used
-- Java
-
 ## Outcome
 The project was successful, and I gained a deeper understanding of Java's array handling capabilities.
