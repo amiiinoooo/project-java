@@ -2,12 +2,12 @@
 To run the project locally, follow these steps:
  
 
-1. *Clone the Repository*:
+1. **Clone the Repository**:
    ```bash
 git clone https://github.com/amiiinoooo/project-java.git
 cd project-java```
 
-2. *Compile the java class*:
+2. **Compile the java class**:
 ```javac StudentGrades.java```
-3 * Execute * :
+3 **Execute** :
 ``` java StudentGrades <number_of_students>```
