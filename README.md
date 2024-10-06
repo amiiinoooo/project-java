@@ -7,7 +7,7 @@ git clone https://github.com/amiiinoooo/project-java.git
 cd project-java
 ```
 
-3. **Compile the java class**:
+2. **Compile the java class**:
 ```
 javac StudentGrades.java
 ```
