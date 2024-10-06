@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2a51ffc9-045f-4329-a48e-a513230d44d3)## Getting Started
+## Getting Started
 To run the project locally, follow these steps:
  
 
