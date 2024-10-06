@@ -11,7 +11,7 @@ cd project-java
 ```
 javac StudentGrades.java
 ```
-3 **Execute** :
+3. **Execute**:
 ```
 java StudentGrades <number_of_students>
 ```
